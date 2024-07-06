@@ -18,7 +18,7 @@ This project implements a MATLAB solver for the Hartree-Fock equation of the Hâ‚
 ## Usage
 1. Clone the repository:
    ```
-   git clone https://github.com/your_username/hartree-fock-h2.git
+   git clone https://github.com/shivhash/Hartree-Fock-Equation-Solver-for-H2-Molecule.git
    ```
 2. Navigate to the project directory in MATLAB.
 3. Run `main.m` to execute the solver and compute molecular properties.
